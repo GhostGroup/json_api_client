@@ -1,0 +1,6 @@
+.git*
+deps
+cover
+docs
+*.ez
+_build
